@@ -1,11 +1,9 @@
 ## Hi there, I'm Christina 👋👋
 
-### 🌱 I am a motivated and collaborative team player seeking to leverage 7 years of professional experience into a software engineering career. 
-
-### 🔭 While working full-time, I completed my second bachelor's degree in Computer Science to pursue my passion in software engineering. I bring a strong and varied background of technical and soft skills from my previous experience as a technical writer and solutions engineer that I believe make me a valuable addition to any engineering team.
+### 🔭 While working full-time, I completed my second bachelor's degree in Computer Science. I bring a strong and varied background of technical and soft skills from my previous experience as a technical writer and solutions engineer that I believe make me a valuable addition to any engineering team.
 
 ### 🎉 Fun Facts 🎉
-- I have two cats who I adore, Bumper and Birdie 🐈 🐈
+- I have three cats who I adore, Bumper, Birdie, and Bean! 
 - 📖 I love reading -- I try to read <30 books a year, my favorite genres are Fantasy and Sci-Fi, recommend me a book!
 - You can usually find me in the at the closest book store or in the gym 💪
 <!--
